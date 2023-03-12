@@ -8,11 +8,100 @@ body {
 .wall {
   width: 1300px;
   height: 600px;
-  background-image: url("./assets/1678611110002.jpg");
+  background-image: url(./assets/1678611110002.jpg);
   background-repeat: repeat;
   position: relative;
 }
 
 .wall div {
   position: absolute;
+}
+
+.img1{
+  top: 0px;
+  left: 0px;
+}
+.img2{
+  top: 0px;
+  left: 280px;
+}
+.img3{
+  top: 320px;
+  left: 40px;
+}
+.img4{
+  top: 290px;
+  left: 170px;
+}
+.img5{
+  top: 240px;
+  left: 330px;
+}
+.img6{
+  top: 170px;
+  left: 210px;
+}
+.img7{
+  top: 450px;
+  left: 240px;
+}
+.img8{
+  top: 140px;
+  left: 730px;
+}
+.img9{
+  top: 490px;
+  left: 10px;
+}
+.img10{
+  top: 0px;
+  left: 230px;
+}
+.img11{
+  top: 120px;
+  left: 560px;
+}
+.img12{
+  top: 360px;
+  left: 340px;
+}
+.img13{
+  top: 230px;
+  left: 460px;
+}
+.img14{
+  bottom: 0px;
+  left: 510px;
+}
+.img15{
+  top: 30px;
+  left: 1140px;
+}
+.img16{
+  top: 240px;
+  left: 1000px;
+}
+.img17{
+  top: 150px;
+  left: 800px;
+}
+.img18{
+  top: 0px;
+  left: 831px;
+}
+.img19{
+  top: 0px;
+  left: 540px;
+}
+.img20{
+  top: 20px;
+  left: 680px;
+}
+.img21{
+  top: 0px;
+  left: 960px;
+}
+.img22{
+  bottom: 0px;
+  right: 20px;
 }
