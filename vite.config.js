@@ -8,7 +8,9 @@ export default defineConfig({
     react(),
     apiServerPlugin({
       "/api/upload": async function (req) {
-
+        return {
+          url: '/' + req.file.path
+        }
       },
     }),
   ],
