@@ -4,6 +4,9 @@ body {
   justify-content: center;
   align-items: center;
 }
+.wall img {
+  width: 100%;
+}
 
 .wall {
   width: 1300px;
